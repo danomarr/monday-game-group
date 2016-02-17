@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The story so far"
-date:   2016-02-17 01:00:00 +0100
+date:   2016-02-17 17:00:00 +0100
 categories: adventure beginning recap
 ---
 It all began in a small town I've forgotten the name of. We were a mixed assortment of adventurers smashed together by the occurrence of death and despair.
