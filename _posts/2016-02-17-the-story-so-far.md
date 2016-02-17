@@ -8,4 +8,4 @@ It all began in a small town I've forgotten the name of. We where a mixed assort
 
 This was us. This is still us, in many ways, although I like to think we might have grown. But to begin in the beginning the murderous drow paladin Kaladan Brood got us all thrown in jail after slaughtering a farmstead just outside of the town of which name I still cannot remember. As most of the party put all their efforts into making a hasty escape the paladin was contacted by an incorporeal voice from the beyond promising a swift release from our imprisonment. We did not take this offer. Instead we faced judgement by the towns mayor, a pale, obese, and seemingly evil man, and his muscle Garrok who might be one of the scariest people alive with his floating magical sword and mind penetrating magic.
 
-In the end we where presented with a choice. Die or head to an underground temple a days travel away and pick the fruit of the Giltheas tree.
+In the end we were presented with a choice. Die or head to an underground temple a days travel away and pick the fruit of the Giltheas tree.
