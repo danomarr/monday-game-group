@@ -9,7 +9,7 @@
 title: Monday Game Group
 email: daniel.dennerkrans@hyperisland.se
 description: > # An attempt to create and maintain a wiki about the adventures we, a solid group of friends around a kitchen table, embark on every Monday.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://dennerkrans.github.io/monday-game-group" # the subpath of your site, e.g. /blog
 url: "http://dennerkrans.github.io/monday-game-group" # the base hostname & protocol for your site
 twitter_username: dennerkrans
 github_username:  dennerkrans
